@@ -1,6 +1,6 @@
 Name:		texlive-unifith
 Version:	60698
-Release:	1
+Release:	2
 Summary:	Typeset theses for University of Florence (Italy)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unifith
